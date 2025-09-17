@@ -1,0 +1,9 @@
+openmeteo-requests
+requests
+requests-cache
+retry-requests
+numpy
+pandas
+beautifulsoup4
+Pillow
+tqdm
