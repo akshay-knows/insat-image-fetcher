@@ -22,5 +22,7 @@ This script fetches the most recent satellite image from the Indian Meteorologic
 git clone https://github.com/akshay-knows/insat-image-fetcher.git
 cd insat-image-fetcher
 
+2. Run in CMD/Powershel
+```cmd
 pip install -r requirements.txt
 
