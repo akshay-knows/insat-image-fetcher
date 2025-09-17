@@ -21,3 +21,6 @@ This script fetches the most recent satellite image from the Indian Meteorologic
 ```bash
 git clone https://github.com/akshay-knows/insat-image-fetcher.git
 cd insat-image-fetcher
+
+pip install -r requirements.txt
+
